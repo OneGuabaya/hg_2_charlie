@@ -1,19 +1,17 @@
 # Tipo de usuario
-
-[]Alfa
-[]Bravo
-[]Charlie
-[]Delta
+- [ ] Alfa
+- [ ] Bravo 
+- [ ] Charlie
+- [ ] Delta
 
 # Tecnología
 
-[]Javascript 
-[]Markdown
+- [ ] Javascript 
+- [ ] Markdown
 
 # Seleccione el tipo de actividad
-
-[]Feature 
-[]Hotfix 
-[]Refactor
-[]Performance 
-[]Testing
+- [ ] Feature
+- [ ] Hotfix
+- [ ] Refactor
+- [ ] Performance
+- [ ] Testing
